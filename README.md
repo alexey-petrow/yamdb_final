@@ -1,3 +1,4 @@
+![Yamdb_final workflow](https://github.com/p1vosos/yamdb_final/actions/workflows/main.yml/badge.svg)
 # YaMDb
 
 ## Описание проекта

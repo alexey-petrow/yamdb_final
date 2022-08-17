@@ -8,11 +8,12 @@ services:
     env_file:
       - ./.env
   web:
-    build: ../api_yamdb
+    # build: ../api_yamdb
+    image: alexeypetrow/api_yamdb_web:latest
     restart: always
     volumes:
       - static_value:/app/static/
-      - media_value:/app/media/ 
+      - media_value:/app/media/
     depends_on:
       - db
     env_file:
