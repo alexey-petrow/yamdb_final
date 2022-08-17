@@ -2,7 +2,7 @@ name: Yamdb_final workflow
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   tests:
