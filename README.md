@@ -1,4 +1,4 @@
-![Yamdb_final workflow](https://github.com/p1vosos/yamdb_final/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/p1vosos/yamdb_final/actions/workflows/main.yml/badge.svg)
 # YaMDb
 
 ## Описание проекта
@@ -10,7 +10,7 @@
 - Клонировать репозиторий и перейти в директорию с docker-compose.yaml:
 
 ```
-git clone git@github.com:p1vosos/infra_sp2.git
+https://github.com/p1vosos/yamdb_final
 cd infra_sp2/infra
 ```
 
