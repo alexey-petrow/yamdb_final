@@ -1,4 +1,6 @@
 name: Yamdb_final workflow
+env:
+  SECRET_KEY: ${{ secrets.SECRET_KEY }}
 
 on: [push]
 
