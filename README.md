@@ -1,5 +1,7 @@
-![workflow](https://github.com/p1vosos/yamdb_final/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/p1vosos/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 # YaMDb
+
+[Ссылка на развернутый на сервере проект](http://51.250.6.88/api/v1/)
 
 ## Описание проекта
 **YaMDB** – Проект YaMDb собирает отзывы, рейтинг и коментарии пользователей на произведения,  
